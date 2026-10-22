@@ -1,2 +1,19 @@
 # github-final-project
-Simple Interest Calculator project for IBM Full Stack Software Developer Final Project
+
+## Project Name: Simple Interest Calculator
+
+A simple calculator that calculates simple interest given principal, annual rate of interest, and time period in years.
+
+### Formula:
+Simple Interest = (Principal * Rate * Time) / 100
+
+### Input:
+* `p`, principal amount
+* `t`, time period in years
+* `r`, annual rate of interest
+
+### Output:
+* `simple interest = p*t*r`
+
+### Author:
+Siddhi0029
